@@ -1,0 +1,16 @@
+{
+  "name": "@berty/messenger-reducer",
+  "version": "0.1.0",
+  "description": "redux helpers for berty messenger integration",
+  "main": "dist/index.js",
+  "repository": "https://github.com/n0izn0iz/berty-messenger-reducer",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@berty/api": "^2.372.0",
+    "@reduxjs/toolkit": "^1.8.1",
+    "@types/long": "^4.0.1",
+    "buffer": "^6.0.3",
+    "long": "^4.0.0"
+  }
+}
