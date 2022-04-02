@@ -453,4 +453,4 @@ export const selectInteractionAuthor = (state: LocalRootState, convPk: string, c
 	}
 }
 
-export default makeRoot(slice.reducer)
+export const messengerRootReducer = makeRoot(slice.reducer)
